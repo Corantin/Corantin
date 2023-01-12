@@ -26,4 +26,4 @@
 - 🐝 [Quests](https://quests.1hive.org/) ([github](https://github.com/1Hive/quests))
 
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=corantin&show_icons=true&theme=dark&locale=en" alt="corantin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=corantin&&show_icons=true&theme=dark" alt="corantin" /></p>

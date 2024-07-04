@@ -24,7 +24,7 @@
 ### Main contributions
 
 - 🐝 [Quests](https://quests.1hive.org/) ([github](https://github.com/1Hive/quests))
-- 🏡 [Deed3 Protocol](https://app.deed3.io/) ([github](https://github.com/Deed3Labs/DeedProtocol))
+- 🏡 [Deed3](https://app.deed3.io/) ([github](https://github.com/Deed3Labs/DeedProtocol))
 
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=corantin&&show_icons=true&theme=dark" alt="corantin" /></p>

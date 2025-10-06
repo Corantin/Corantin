@@ -27,4 +27,4 @@
 - 🏡 [Deed3](https://app.deed3.io/) ([github](https://github.com/Deed3Labs/DeedProtocol))
 
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api#gh-dark-mode-only?username=corantin&show_icons=true&theme=transparent" alt="corantin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=corantin&show_icons=true&theme=transparent" alt="corantin" /></p>

@@ -23,6 +23,7 @@
 
 ### Main contributions
 
+- 🌱 [Gardens](https://www.gardens.fund/) ([github](https://github.com/1Hive/gardens-v2/))
 - 🐝 [Quests](https://quests.1hive.org/) ([github](https://github.com/1Hive/quests))
 - 🏡 [Deed3](https://app.deed3.io/) ([github](https://github.com/Deed3Labs/DeedProtocol))
 
